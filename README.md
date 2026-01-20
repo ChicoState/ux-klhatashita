@@ -1,3 +1,3 @@
 # Kaiya's UX Journal
 
-![User interface](assets/Kaiya.Hatashita.jpg)
+![User interface](assets/KaiyaHatashita.jpg)
