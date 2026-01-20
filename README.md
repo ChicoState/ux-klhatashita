@@ -1,3 +1,3 @@
 # Kaiya's UX Journal
 
-<img src="assets/KaiyaHatashita.jpg" alt="My Image">
+<img src="/KaiyaHatashita.jpg" alt="My Image">
