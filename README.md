@@ -1,3 +1,3 @@
 # Kaiya's UX Journal
 
-![User interface](assets/KaiyaHatashita.jpg)
+<img src="assets/KaiyaHatashita.jpg" alt="My Image">
