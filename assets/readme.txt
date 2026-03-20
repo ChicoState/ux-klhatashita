@@ -8,4 +8,4 @@ For example, if you upload an image called interface.jpg in this folder, within 
 
 OR you can write pure HTML, such as:
 
-<img src="assets/interface.jpg" alt="User interface">
+<img src="assets/kaiyaimage.jpg" alt="My Image">
