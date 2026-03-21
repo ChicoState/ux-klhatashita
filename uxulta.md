@@ -15,8 +15,13 @@ I wanted to see if any of my previously favorited items **(6)** will be on sale 
 
 ![Ulta Image 2](assets/uxulta2.jpg)
 
-While looking through my favorites page, I became confused by the lack of a picture for certain items **(7)**. When clicking on the entry, I would sometimes be sent to a full profile, similar to image **(5)**, but sometimes be sent to an error page, an inconsistency without any way for me to get help. This could could be improved by implementing both [Consistency and Standards](https://www.nngroup.com/articles/ten-usability-heuristics/) and [Help and Documentation](https://www.nngroup.com/articles/ten-usability-heuristics/). 
+While looking through my favorites page, I became confused by the lack of a picture for certain items **(7)**. When clicking on the entry, I would sometimes be sent to a full profile, similar to image **(5)**, but sometimes be sent to an error page, an inconsistency without any way for me to get help. This could could be improved by implementing both [Consistency and Standards](https://www.nngroup.com/articles/ten-usability-heuristics/) and [Help and Documentation](https://www.nngroup.com/articles/ten-usability-heuristics/).
+
+In order to get the most bang for my buck, I want to use point multipliers to increase my rewards. Ideally, I would like to find items that are both 50% off for the event, and included under the 3x points **(8)**. Clicking "Shop Now" brings me to a screen listing all the items included. I am unable to view which items will be on sale in that interface, so I have to cross refrence by either searching each item individually, or ooking through all 1000 products. This is unfortunatly inconvenient. 
 
 ![Ulta Image 3](assets/uxulta3.jpg)
 
+[Consistency and Standards](https://www.nngroup.com/articles/ten-usability-heuristics/) are also lacking when I attempt to figure out what products are included in the point multipliers. When I click on the line in image **(10)**, it reloads the home screen. When I click on the line in image **(11)**, it loads a list of products.
 ![Ulta Image 4](assets/uxulta4.jpg)
+
+Overall, I was able to accomplist my goal of navigating through the sale and getting the best possible deal. Most of the mobile app was clearly labeled and easy to navigate. Unfortunatly, it was not the most efficent, 
