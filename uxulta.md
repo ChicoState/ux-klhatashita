@@ -6,9 +6,12 @@ The app opens straight to the home screen **(1)**, where the large text immedien
 This brings me to a page listing all of those items. They are organized so that today's deals are all displayed **(2)**, and the rest are collasped under each date **(3)**. 
 
 They're accessable by scrolling sideways, and there's an aditional button to view all at once. Each item is in a seperate box, with an image, name, and price. This is similar to the in store experience, demonstrating a [Match Between the System and the Real World](https://www.nngroup.com/articles/ten-usability-heuristics/). Clicking on an item will show more information and provide a way to add to cart. 
+
 ![Ulta Image 1](assets/uxulta1.jpg)
 
 One issue I ran into- the out of stock items are not updated on the explore event page **(4)**, only on each individual page **(5)**. This means when initially scrolling, I am not aware an item is unavailible until I express intrest. This provides less than ideal [Visibility of System Status](https://www.nngroup.com/articles/ten-usability-heuristics/), something that could be fixed with a small indicator on the main page. 
+
+I wanted to see if any of my previously favorited items **(6)** will be on sale during the 21 days, but other than the current day's sales, there is no way to view that information without looking through every single item on the event page. 
 
 ![Ulta Image 2](assets/uxulta2.jpg)
 
