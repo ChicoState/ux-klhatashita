@@ -1,4 +1,4 @@
-#### Ulta 21 Days of Beauty Event!
+# Ulta 21 Days of Beauty Event!
 The Beauty Retailer Ulta Beauty is currently running their annual 21 Days of Beauty Promotion. I used the mobile application to explore the items on sale and decide whether or not I wanted to make a purchase. 
 
 The app opens straight to the home screen **(1)**, where the large text immediently drew my attention to the sale. I am given two options, "shop today's sales" and "explore event". As I want to see all the items that will be on sale, I click "explore event". 
