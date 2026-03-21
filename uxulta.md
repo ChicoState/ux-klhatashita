@@ -15,6 +15,8 @@ I wanted to see if any of my previously favorited items **(6)** will be on sale 
 
 ![Ulta Image 2](assets/uxulta2.jpg)
 
+While looking through my favorites page, I became confused by the lack of a picture for certain items **(7)**. When clicking on the entry, I would sometimes be sent to a full profile, similar to image **(5)**, but sometimes be sent to an error page, an inconsistency without any way for me to get help. This could could be improved by implementing both [Consistency and Standards](https://www.nngroup.com/articles/ten-usability-heuristics/) and [Help and Documentation](https://www.nngroup.com/articles/ten-usability-heuristics/). 
+
 ![Ulta Image 3](assets/uxulta3.jpg)
 
 ![Ulta Image 4](assets/uxulta4.jpg)
