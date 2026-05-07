@@ -6,3 +6,4 @@ Hi! I'm Kaiya Hatashita, a CSCI Major at Chico State. This is my second year at 
 
 ## UX Journal Entries
 - [Ulta 21 Days of Beauty Event!](uxulta.md)
+- [Slickdeals New Interface](uxslickdeals.md)
